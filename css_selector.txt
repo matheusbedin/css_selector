@@ -1,0 +1,39 @@
+
+
+
+
+
+################################################################################################################################################################################################################################################################################################################################################
+https://www.livelo.com.br/ 
+
+Botão do carrinho element :SeletorCarrinho, '.icon-shopping-cart'
+
+Botão de login element :AcessarConta, '#div-controlLogin'
+
+Botão de cadastro element :CriarConta, '#span-createAccountText'
+
+
+
+################################################################################################################################################################################################################################################################################################################################################
+https://www.divvino.com.br/
+
+Array de botões de categorias => element :BotoesCategoria, '.main_menu_ul'
+
+Array de produtos (box do produto) => element :Produtos, '.conteudo_princ_content'
+
+Ícone de lupa da busca => element :Pesquisar, '.icon-lupa'
+
+Botão 'ir para o carrinho' => element:Carrinho, '.icon-cx_vinho'
+
+
+################################################################################################################################################################################################################################################################################################################################################
+
+
+https://orgames.com.br/
+
+Botão de fechar da modal de promoção  = > element :Fechar, '.material-icons'
+
+Input de busca => element:Buscar, '.text-input js-search-input'
+
+Botão 'Quem Somos => element :QuemSomos, 'a[href*="quem-somos"]' Seleciona cada <a> elemento cujo valor de atributo href contém a sub cadeia “quem-somos”
+
